@@ -25,6 +25,10 @@ playwright-ui-automation/
 | test_invalid_password | Wrong password should show error | ✅ |
 | test_invalid_username | Wrong username should show error | ✅ |
 | test_empty_credentials | Empty fields should show error | ✅ |
+| test_add_single_todo | Add single todo item | ✅ |
+| test_add_multiple_todos | Add multiple todo items | ✅ |
+| test_complete_todo | Mark todo as completed | ✅ |
+| test_clear_completed | Clear completed todos | ✅ |
 
 ## How to Run
 ```bash
